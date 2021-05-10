@@ -23,7 +23,7 @@ main {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-	width: 50%;
+	width: 500px;
 }
 
 .grocery-form fieldset {
